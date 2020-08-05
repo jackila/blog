@@ -8,17 +8,20 @@
   - java
   - golang
 
-* 框架
+* web框架
+* 中间件
+* 分布式系统
+* 关于项目的那些事情
 * 所思
 * 总结
 
 ## 语言类
 
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghfnyykoe9j30dw091jrd.jpg" alt="img" style="zoom:50%;" />
+<img src="./picture/007S8ZIlly1ghfnyykoe9j30dw091jrd.png" alt="img" style="zoom:50%;" />
 
 1. **宇宙中的那些星球--java**
 
-![img](https://tva1.sinaimg.cn/large/007S8ZIlly1ghfo0whab5j303d03wweh.jpg)
+![img](./picture/007S8ZIlly1ghfo0whab5j303d03wweh.png)
 
 1. **Golang学习路线图**
 
